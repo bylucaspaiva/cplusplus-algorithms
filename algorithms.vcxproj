@@ -129,10 +129,12 @@
   <ItemGroup>
     <ClCompile Include="algorithms.cpp" />
     <ClCompile Include="LenghtOfLastWord.cpp" />
+    <ClCompile Include="ReverseString.cpp" />
     <ClCompile Include="StringProblem.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LenghtOfLastWord.h" />
+    <ClInclude Include="ReverseString.h" />
     <ClInclude Include="StringProblem.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

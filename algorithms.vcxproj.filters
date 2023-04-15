@@ -24,12 +24,18 @@
     <ClCompile Include="LenghtOfLastWord.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="ReverseString.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringProblem.hpp">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="LenghtOfLastWord.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ReverseString.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
