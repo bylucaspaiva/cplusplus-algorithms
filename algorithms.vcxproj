@@ -127,15 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="algorithms.cpp" />
-    <ClCompile Include="LenghtOfLastWord.cpp" />
-    <ClCompile Include="ReverseString.cpp" />
-    <ClCompile Include="StringProblem.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="LenghtOfLastWord.h" />
-    <ClInclude Include="ReverseString.h" />
-    <ClInclude Include="StringProblem.hpp" />
+    <ClCompile Include="src\algorithms.cpp" />
+    <ClCompile Include="LeetCode\LenghtOfLastWord.cpp" />
+    <ClCompile Include="LeetCode\ReverseString.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

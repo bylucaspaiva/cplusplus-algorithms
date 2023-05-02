@@ -15,28 +15,14 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="algorithms.cpp">
+    <ClCompile Include="src\algorithms.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="StringProblem.cpp">
+    <ClCompile Include="LeetCode\LenghtOfLastWord.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="LenghtOfLastWord.cpp">
+    <ClCompile Include="LeetCode\ReverseString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="ReverseString.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="StringProblem.hpp">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="LenghtOfLastWord.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="ReverseString.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
 </Project>

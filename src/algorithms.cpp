@@ -1,7 +1,6 @@
 #include <iostream>
-#include "StringProblem.hpp"
-#include "LenghtOfLastWord.h"
-#include "ReverseString.h"
+#include "../LeetCode/ReverseString.cpp"
+#include "../LeetCode/LenghtOfLastWord.cpp"
 
 int main()
 {
@@ -10,14 +9,13 @@ int main()
     obj.printMessage(); 
     */
 
-    /* LeetCode exercise 58
+    //LeetCode exercise 58
     LenghtOfLastWord solution;
     solution.Solution();
-    */
 
     /*LeetCode exercise 344*/
-    ReverseString solution;
+  /*  ReverseString solution;
     solution.execute();
-    return 0;
+    return 0;*/
    
 }
